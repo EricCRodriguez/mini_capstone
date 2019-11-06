@@ -1,0 +1,2 @@
+class PcPart < ApplicationRecord
+end
